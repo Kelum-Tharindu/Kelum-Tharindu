@@ -84,8 +84,8 @@
 
 <!-- Credly Badge Embed -->
 
-<a href="[https://www.credly.com/badges/a463f65b-0c25-47a3-bcb4-00e2d096598d](https://www.credly.com/badges/a463f65b-0c25-47a3-bcb4-00e2d096598d/public_url)">
-  <img src="https://images.credly.com/images/YOUR_BADGE_IMAGE.png" alt="Credly Badge" width="150">
+<a href="https://www.credly.com/badges/a463f65b-0c25-47a3-bcb4-00e2d096598d/public_url">
+  <img src="https://images.credly.com/assets/utilities/embed.js" alt="Credly Badge" width="150">
 </a>
 
 
