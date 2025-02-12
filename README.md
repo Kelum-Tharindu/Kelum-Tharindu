@@ -83,11 +83,9 @@
 <h3 align="left">🏆 Badges:</h3>
 
 <!-- Credly Badge Embed -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a463f65b-0c25-47a3-bcb4-00e2d096598d" data-share-badge-host="https://www.credly.com"></div>
-<!-- <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
----
+<a href="[https://www.credly.com/badges/a463f65b-0c25-47a3-bcb4-00e2d096598d](https://www.credly.com/badges/a463f65b-0c25-47a3-bcb4-00e2d096598d/public_url)">
+  <img src="https://images.credly.com/images/YOUR_BADGE_IMAGE.png" alt="Credly Badge" width="150">
+</a>
 
-<!-- Background Customization -->
-<!-- The "midnight-purple" theme uses a mix of navy blue, black, and purple for a dark aesthetic. -->
 
