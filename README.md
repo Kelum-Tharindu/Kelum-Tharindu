@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from Sri Lanka</h3>
 
 <!-- Contact Information -->
-- 📫 How to reach me ****
+- 📫 How to reach me **kelumtharinduse@gmail.com**
 
 <!-- Social Links -->
 <h3 align="left">Connect with me:</h3>
@@ -12,8 +12,6 @@
   </a>
 </p>
 
-<!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
 <!-- Languages and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
