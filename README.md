@@ -85,11 +85,11 @@
 </p>
 
 <!-- GitHub Stats Section with Navy Blue + Black + Purple Theme -->
-<h3 align="Center">📊 GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
 
 <!-- Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelum-tharindu&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="kelum-tharindu" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kelum-tharindu&show_icons=true&locale=en&layout=compact&theme=midnight-purple" alt="kelum-tharindu" />
 </p>
 
 <!-- Overall GitHub Stats -->
@@ -102,9 +102,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kelum-tharindu&theme=midnight-purple" alt="kelum-tharindu" />
 </p>
 
----
 
-<!-- Background Customization -->
-<!-- The "midnight-purple" theme uses a mix of navy blue, black, and purple for a dark aesthetic. -->
 
-Let me know if you need any more modifications! 🚀
+
