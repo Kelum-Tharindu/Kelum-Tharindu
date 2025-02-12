@@ -85,7 +85,7 @@
 </p>
 
 <!-- GitHub Stats Section with Navy Blue + Black + Purple Theme -->
-<h3 align="left">📊 GitHub Stats:</h3>
+<h3 align="Center">📊 GitHub Stats:</h3>
 
 <!-- Top Languages -->
 <p>
